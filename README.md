@@ -14,3 +14,10 @@
 ## Diagrama de Classes:
 
 ![Diagrama do primeiro Iphone 2007 drawio](https://github.com/AlexsanderGS/desafio-dio-UML/assets/66967726/2b201cdd-bea1-43e6-bf0d-19783592b190)
+
+### Certificado:
+
+<div>
+<img src="https://github.com/AlexsanderGS/desafio-dio-UML/assets/66967726/a85457f5-8538-48c1-95ca-0fe47b604c88.png" width="550px" />
+</div>
+
